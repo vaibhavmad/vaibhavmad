@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Madaan.Vaibhav
 - 👀 I’m interested in writing code and solving problems
-- 🌱 I’m currently doing a FSD certification from IIT-R
+- 🌱 I’m currently doing a FSD certification from IIT-R + Learning Python
+- Aim is to get into Machine Learning
 - 📫 Reach me at madaan.vaibhav88@gmail.com
 
 <!---
