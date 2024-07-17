@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Madaan.Vaibhav
 - 👀 I’m interested in writing code and solving problems
-- :books: I’m currently doing a FSD certification from IIT-R + Learning Python
-- <a href="https://google.com" target="_blank" rel="noopener noreferrer">Google</a>Aim is to get into Machine Learning
+- :books: I’m currently doing a FSD certification from IIT-R + Learning [Python](https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png)
+- Aim is to get into Machine Learning
 - 📫 Reach me at madaan.vaibhav88@gmail.com
 
 <!---
