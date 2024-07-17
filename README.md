@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Madaan.Vaibhav
 - 👀 I’m interested in writing code and solving problems
-- :books: I’m currently doing a FSD certification from IIT-R + Learning ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+- :books: I’m currently doing a FSD certification from IIT-R + Learning <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
 - Aim is to get into Machine Learning
 - 📫 Reach me at madaan.vaibhav88@gmail.com
 
